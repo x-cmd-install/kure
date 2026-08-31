@@ -1,0 +1,58 @@
+about:
+  description: CLI password manager with sessions
+  license: Apache-2.0
+  homepage: 
+  head: 423bf0e
+  archived: false
+  latestVersion: v1.3.0
+  collectedAt: 2026-08-31T05:39:49Z
+timeline:
+  created: 2020-08-31
+  lastCommit: 2026-08-25
+  lastRelease: 2025-11-02
+popularity:
+  star: 171
+  watcher: 5
+  fork: 16
+  release: 29
+  contributor: 3
+  pullRequest: 7
+  issue: 10
+language:
+  Go: 360800
+  Makefile: 540
+  Dockerfile: 374
+totalLine: 361714
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-05
+    release: 1
+    mergedPR: 41
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 0
