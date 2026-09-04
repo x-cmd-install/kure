@@ -7,7 +7,7 @@ about:
   head: 3739821
   archived: false
   latestVersion: v1.3.0
-  collectedAt: 2026-09-04T19:37:07Z
+  collectedAt: 2026-09-04T20:54:19Z
 timeline:
   created: 2020-08-31
   lastCommit: 2026-09-01
@@ -82,5 +82,63 @@ total:
   openIssue: 0
   commit: 405
 ---
+path: /home/runner/.x-repo/github.com/GGP1/kure
+collectedAt: 2026-09-04T20:54:20Z
+loc:
+  Go:
+    code: 14385
+    comments: 619
+    blanks: 2909
+    files: 127
+  Pan:
+    code: 54
+    comments: 6
+    blanks: 8
+    files: 2
+  Protobuf:
+    code: 46
+    comments: 4
+    blanks: 13
+    files: 4
+  Yaml:
+    code: 44
+    comments: 15
+    blanks: 11
+    files: 5
+  Json:
+    code: 40
+    comments: 0
+    blanks: 0
+    files: 6
+  Makefile:
+    code: 22
+    comments: 0
+    blanks: 9
+    files: 1
+  Toml:
+    code: 14
+    comments: 6
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 1
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1071
+    blanks: 488
+    files: 41
+  Text:
+    code: 0
+    comments: 3
+    blanks: 0
+    files: 3
+total:
+  code: 14625
+  comments: 1725
+  blanks: 3454
+  files: 191
 ---
 
