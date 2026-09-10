@@ -22,7 +22,39 @@ x install kure
 - **Latest**: `v1.3.0` (2025-11-02)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 28
-- **Published**: 2025-11-02T11:09:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kure_v1.3.0_checksums.txt](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_checksums.txt) | 2.5 KiB | `other` |
+| [kure_v1.3.0_darwin_amd64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_darwin_amd64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [kure_v1.3.0_darwin_arm64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_darwin_arm64.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
+| [kure_v1.3.0_freebsd_386.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_freebsd_386.tar.gz) | 4.9 MiB | `native/unknown` |
+| [kure_v1.3.0_freebsd_amd64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_freebsd_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [kure_v1.3.0_freebsd_arm64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_freebsd_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [kure_v1.3.0_freebsd_armv6.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_freebsd_armv6.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_freebsd_armv7.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_freebsd_armv7.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_linux_386.deb](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_386.deb) | 4.9 MiB | `other` |
+| [kure_v1.3.0_linux_386.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_386.tar.gz) | 4.9 MiB | `native/unknown` |
+| [kure_v1.3.0_linux_amd64.deb](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_amd64.deb) | 5.1 MiB | `native/linux/x64` |
+| [kure_v1.3.0_linux_amd64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [kure_v1.3.0_linux_arm64.deb](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_arm64.deb) | 4.6 MiB | `native/linux/arm64` |
+| [kure_v1.3.0_linux_arm64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [kure_v1.3.0_linux_armv6.deb](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_armv6.deb) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_linux_armv6.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_armv6.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_linux_armv7.deb](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_armv7.deb) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_linux_armv7.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_linux_armv7.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_openbsd_386.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_openbsd_386.tar.gz) | 4.9 MiB | `native/unknown` |
+| [kure_v1.3.0_openbsd_amd64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_openbsd_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [kure_v1.3.0_openbsd_arm64.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_openbsd_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [kure_v1.3.0_openbsd_armv6.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_openbsd_armv6.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_openbsd_armv7.tar.gz](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_openbsd_armv7.tar.gz) | 4.8 MiB | `native/linux/arm` |
+| [kure_v1.3.0_windows_386.zip](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_windows_386.zip) | 5.1 MiB | `native/win/x64` |
+| [kure_v1.3.0_windows_amd64.zip](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_windows_amd64.zip) | 5.2 MiB | `native/win/x64` |
+| [kure_v1.3.0_windows_arm64.zip](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_windows_arm64.zip) | 4.7 MiB | `native/win/arm64` |
+| [kure_v1.3.0_windows_armv6.zip](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_windows_armv6.zip) | 5.0 MiB | `native/win/x64` |
+| [kure_v1.3.0_windows_armv7.zip](https://github.com/GGP1/kure/releases/download/v1.3.0/kure_v1.3.0_windows_armv7.zip) | 5.0 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +89,8 @@ Total: **14,616** lines of code across **144** files in the top 5 languages.
 Install metadata for kure lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kure` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kure.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kure.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:47Z._
