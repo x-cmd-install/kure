@@ -47,12 +47,12 @@ Total: **14,616** lines of code across **144** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 4 | 3 | 0 | 0 | 4 |
-| 90d | 2026-07-09 | 0 | 8 | 3 | 0 | 0 | 8 |
-| last180d | 2026-04-10 | 0 | 18 | 3 | 1 | 0 | 17 |
-| 360d | 2025-10-12 | 1 | 41 | 3 | 2 | 0 | 45 |
-| last720d | 2024-10-17 | 3 | 49 | 3 | 2 | 0 | 114 |
+| 30d | 2026-09-08 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 4 | 3 | 0 | 0 | 4 |
+| 90d | 2026-07-10 | 0 | 8 | 3 | 0 | 0 | 8 |
+| last180d | 2026-04-11 | 0 | 18 | 3 | 1 | 0 | 17 |
+| 360d | 2025-10-13 | 1 | 41 | 3 | 2 | 0 | 45 |
+| last720d | 2024-10-18 | 3 | 49 | 3 | 2 | 0 | 114 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kure lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:55:52Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:08:53Z._
